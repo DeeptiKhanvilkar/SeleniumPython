@@ -1,0 +1,17 @@
+2025-03-04 17:21:44,763 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:21:56,097 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:21:56,097 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:23:38,839 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:23:39,216 - BasePage.py:[33] - [INFO] :click :Clicked on the element: findNewCars_XPATH
+2025-03-04 17:23:53,113 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:23:53,113 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:24:40,908 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:24:41,356 - BasePage.py:[33] - [INFO] :click :Clicked on the element: findNewCars_XPATH
+2025-03-04 17:24:54,965 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:24:54,965 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:25:34,285 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:25:34,717 - BasePage.py:[33] - [INFO] :click :Clicked on the element: findNewCars_XPATH
+2025-03-04 17:25:48,456 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:25:48,456 - test_carwale.py:[11] - [INFO] :test_gotoNewCar :*********Go to New Car**********
+2025-03-04 17:25:49,182 - BasePage.py:[33] - [INFO] :click :Clicked on the element: findNewCars_XPATH
+2025-03-04 17:25:49,182 - BasePage.py:[33] - [INFO] :click :Clicked on the element: findNewCars_XPATH

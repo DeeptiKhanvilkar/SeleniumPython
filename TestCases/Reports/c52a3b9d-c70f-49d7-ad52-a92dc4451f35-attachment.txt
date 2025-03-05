@@ -1,0 +1,3 @@
+INFO     test_printCarNamesandPrices:test_carwale.py:57 ********* Inside Select Cars ************** 
+INFO     click:BasePage.py:33 Clicked on the element: findNewCars_XPATH
+INFO     click:BasePage.py:33 Clicked on the element: toyota_XPATH
