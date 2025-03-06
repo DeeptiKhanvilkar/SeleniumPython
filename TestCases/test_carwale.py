@@ -19,7 +19,7 @@ class Test_CarWale(BaseTest):
         time.sleep(3)
         assert home.gotoNewCars().get_title()
 
-    @pytest.mark.skip
+    # @pytest.mark.skip
     @pytest.mark.parametrize("carBrand, carTitle", get_all_data("..//Excel/TestData.xlsx", "SelectCars"))
     def test_selectCars(self, carBrand, carTitle):
         log.get_logger().info("********* Inside Select Cars ************** ")
